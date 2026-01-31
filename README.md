@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Jeet,<br>College freshman focused on growth and skill building 🎓<br>💻 Strong interest in technology and software development <br> 🛠️ Enjoys learning through projects and hands on work <br> 📈 Values consistency, curiosity, and improvement <br> 🤝 Comfortable working solo and in teams <br> 🚀 Always aiming to improve skills and mindset
+👋 Hi, I’m Jeet, <br> 🎓 College freshman focused on growth and skill building <br> 💻 Strong interest in technology and software development <br> 🛠️ Enjoys learning through projects and hands on work <br> 📈 Values consistency, curiosity, and improvement <br> 🤝 Comfortable working solo and in teams <br> 🚀 Always aiming to improve skills and mindset <br>
 
 
 ## 🌐 Socials:
